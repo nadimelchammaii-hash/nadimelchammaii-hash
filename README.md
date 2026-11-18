@@ -20,10 +20,10 @@ Each one is live, with a **Try the demo** button that logs you in with sample da
 
 ## Stack
 
-**Backend:** PHP, Laravel, C#, ASP.NET MVC, Python
-**Frontend:** Vue 3, TypeScript, Vuetify, Pinia
-**Data:** PostgreSQL, pgvector, MySQL, SQL Server, Redis
-**Ops:** Docker, Caddy, Linux (Ubuntu), GitHub Actions
+- **Backend:** PHP, Laravel, C#, ASP.NET MVC, Python
+- **Frontend:** Vue 3, TypeScript, Vuetify, Pinia
+- **Data:** PostgreSQL, pgvector, MySQL, SQL Server, Redis
+- **Ops:** Docker, Caddy, Linux (Ubuntu), GitHub Actions
 
 ## Contact
 
