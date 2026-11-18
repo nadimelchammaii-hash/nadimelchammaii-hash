@@ -1,6 +1,6 @@
 # Hi, I'm Nadim 👋
 
-Full-stack developer from Lebanon. I build web apps with **Laravel** and **Vue.js**, add AI features with **OpenAI and RAG**, and ship them myself with **Docker** on Linux servers.
+Full-stack developer from Lebanon. I build web apps and APIs, add AI features like RAG, and ship them myself with Docker on Linux servers.
 
 ## Projects you can try
 
